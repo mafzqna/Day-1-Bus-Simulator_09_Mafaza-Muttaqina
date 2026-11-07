@@ -24,3 +24,7 @@ Workshop hari ini membahas tentang prompt engineering (Role, Task, Context, Form
 
 **Pendapat mengenai workshop day 1:**
  workshop day 1 sangat bermanfaat karena teori yang disampaikan langsung dipraktikkan
+
+ # Dokumentasi
+ <img width="1280" height="960" alt="image" src="https://github.com/user-attachments/assets/1ea8ffd3-847c-4ea4-afc5-c6fbf0d6b1b3" />
+
