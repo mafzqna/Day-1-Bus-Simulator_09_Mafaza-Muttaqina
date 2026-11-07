@@ -8,11 +8,12 @@
 Repository adalah tempat penyimpanan digital yang digunakan untuk menyimpan, mengelola, dan mengorganisir berbagai file atau data dalam suatu proyek. Repository dapat berisi kode program, dokumen, gambar, serta file pendukung lainnya.
 
 # Kegunaan Repository
-- Menyimpan file dan data proyek secara terpusat.
-- Memudahkan pengelolaan dan pencarian file.
-- Memungkinkan beberapa orang bekerja sama dalam satu proyek.
-- Melacak perubahan atau riwayat pembaruan file.
-- Menjaga keamanan dan ketersediaan data agar dapat diakses kembali saat dibutuhkan.
+- Menyimpan seluruh file proyek di satu tempat
+- Mencatat riwayat perubahan (siapa, kapan, apa)
+- Bisa kembali ke versi lama kalau ada kesalahan
+- Memudahkan kerja tim dan kolaborasi
+- Jadi backup kode di online (GitHub)
+- Mendukung branch untuk mencoba fitur baru tanpa merusak kode utama
 
 # Rangkuman Workshop
 Workshop hari ini membahas tentang prompt engineering (Role, Task, Context, Format) dan Git and GitHub: Git untuk version control lokal, GitHub untuk penyimpanan online dan kolaborasi. Praktiknya membuat Student Task Planner dengan AI, lalu push ke GitHub.
